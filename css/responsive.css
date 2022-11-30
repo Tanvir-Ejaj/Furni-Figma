@@ -1,0 +1,957 @@
+/* Large device area start */
+
+@media (min-width: 992px) and (max-width: 1199px) {
+  /* Nav area start */
+
+  .navbar {
+    position: fixed;
+    background: rgb(214, 211, 211) !important;
+    z-index: 99;
+    padding: 15px 0;
+  }
+
+  .nav-link {
+    padding: 10px 25px !important;
+  }
+
+  .extra-btn {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  /* Nav area end */
+
+  /* banner area start */
+
+  #banner {
+    padding-top: 80px;
+  }
+
+  .banner-text {
+	position: absolute;
+	width: 50%;
+	top: 55%;
+	left: 0%;
+}
+
+.banner-text h3 {
+    font-size: 35px;
+    padding: 20px 0;
+  }
+  
+  .banner-text p {
+    padding: 10px 50px 40px 0;
+    font-size: 20px;
+  }
+
+  .banner-dots {
+    position: absolute;
+    top: 100px;
+    left: 12%;
+    z-index: 1;
+  }
+
+  /* banner area end */
+
+  /* Brand area start */
+
+  .brand-head h3 {
+    font-size: 20px;
+    letter-spacing: 10%;
+    padding-bottom: 30px;
+  }
+
+  #brand {
+    margin-top: 64px;
+    padding: 45px 0;
+    background: #f4f6f6;
+  }
+
+  /* Brand area end */
+
+  /* Deals area start */
+
+  #deals {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+  .header h3 {
+    font-size: 38px;
+  }
+
+  .span-text {
+    padding-left: 98px;
+  }
+
+  #deals .header p {
+    padding: 35px 0;
+    font-size: 18px;
+  }
+
+  .deals-data h5 {
+    font-size: 18px;
+  }
+
+  .deals-data p {
+    font-size: 14px;
+  }
+
+  /* Deals area end */
+
+  /* About area start */
+
+  #about {
+    padding: 0;
+  }
+
+  .header h3 {
+    font-size: 36px;
+  }
+
+  .header p {
+    font-size: 18px;
+  }
+
+  #about .header p {
+    padding-right: 0;
+  }
+
+  .about-btn {
+    margin: 30px 0;
+  }
+
+  .about-inner {
+    padding-top: 30px;
+  }
+
+  .about-inner h3 {
+    font-size: 36px;
+  }
+
+  .about-inner h4 {
+    font-size: 18px;
+  }
+
+  .about-inner p {
+    font-size: 14px;
+    padding: 0;
+  }
+
+  .about-image-wrapper {
+    padding-top: 65px;
+  }
+
+  /* About area end */
+
+  /* Products area start */
+
+  .product-menu {
+    padding: 50px 0;
+  }
+
+  .product-menu button {
+    font-size: 20px;
+    padding: 0 15px;
+  }
+
+  /* Products area end */
+
+  /* Comment area start */
+
+  .comment-pic {
+    width: 50%;
+  }
+
+  .comment-text {
+    padding-left: 20px;
+    width: 50%;
+  }
+
+  .comment-text a {
+    font-size: 23px;
+  }
+
+  .comment-text p {
+    font-size: 22px;
+    padding: 10px 0;
+  }
+
+  .comment-text h5 {
+    font-size: 20px;
+  }
+
+  .comment-text h6 {
+    font-size: 16px;
+  }
+
+  .slick-slider .comment-inner {
+    padding: 0 40px;
+  }
+
+  .comment-slider {
+    margin-top: 25px;
+  }
+
+  .comment-container {
+    padding: 70px 0 30px;
+  }
+
+  .lock {
+    position: absolute;
+    top: 36%;
+    right: 10%;
+  }
+
+  .left-arrow{
+    left: 54%;
+  }
+
+  .right-arrow{
+    left: 65%;
+  }
+
+  /* Comment area end */
+
+  /* Footer area start */
+
+  footer {
+    margin-top: 40px;
+    padding: 50px 0;
+  }
+
+  .footer-head h3 {
+    font-size: 33px;
+    margin-bottom: 30px;
+  }
+
+  .footer-head-btn a {
+    font-size: 14px;
+    padding: 15px 25px;
+    margin-bottom: 30px;
+  }
+
+  .footer-icon {
+    margin-bottom: 30px;
+  }
+
+  .footer-link-head h3 {
+    font-size: 18px;
+  }
+
+  .footer-links ul li a {
+    font-size: 15px;
+  }
+
+  /* Footer area end */
+}
+
+/* Large device area end */
+
+/* Medium device area start */
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  /* Nav area start */
+
+  .navbar {
+    position: fixed;
+    background: rgb(214, 211, 211) !important;
+    z-index: 99;
+    padding: 15px 0;
+  }
+
+  .nav-link {
+    padding: 10px 0 !important;
+  }
+
+  .extra-btn {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  /* Nav area end */
+
+  /* banner area start */
+
+  #banner {
+    padding-top: 80px;
+  }
+
+  .banner-text {
+    position: absolute;
+    width: 50%;
+    top: 70%;
+    left: 00%;
+    padding: 20px 0;
+    text-align: center;
+    opacity: 0.7;
+  }
+
+  .banner-text h3 {
+    font-size: 32px;
+    padding: 40px 0 20px;
+  }
+
+  .banner-text p {
+    font-size: 16px;
+    padding: 0 0 40px 0;
+  }
+
+  .banner-dots {
+    position: absolute;
+    top: 100px;
+    left: 12%;
+    z-index: 1;
+  }
+
+  /* banner area end */
+
+  /* Brand area start */
+
+  .brand-head h3 {
+    font-size: 20px;
+    letter-spacing: 10%;
+    padding-bottom: 30px;
+  }
+
+  #brand {
+    margin-top: 64px;
+    padding: 45px 0;
+    background: #f4f6f6;
+  }
+
+  /* Brand area end */
+
+  /* Deals area start */
+
+  #deals {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+  .header h3 {
+    font-size: 38px;
+  }
+
+  .span-text {
+    padding-left: 0;
+  }
+
+  #deals .header p {
+    padding: 35px 0;
+    font-size: 18px;
+  }
+
+  .deals-data h5 {
+    font-size: 18px;
+  }
+
+  .deals-data p {
+    font-size: 14px;
+  }
+
+  /* Deals area end */
+
+  /* About area start */
+
+  #about {
+    padding: 0;
+  }
+
+  .header h3 {
+    font-size: 36px;
+  }
+
+  .header p {
+    font-size: 18px;
+  }
+
+  #about .header p {
+    padding-right: 0;
+  }
+
+  .about-btn {
+    margin: 30px 0;
+  }
+
+  .about-inner {
+    padding-top: 30px;
+  }
+
+  .about-inner h3 {
+    font-size: 36px;
+  }
+
+  .about-inner h4 {
+    font-size: 18px;
+  }
+
+  .about-inner p {
+    font-size: 14px;
+    padding: 0;
+  }
+
+  .about-image-wrapper {
+    padding-top: 65px;
+  }
+
+  /* About area end */
+
+  /* Products area start */
+
+  .product-menu {
+    padding: 50px 0;
+  }
+
+  .product-menu button {
+    font-size: 20px;
+    padding: 0 15px;
+  }
+
+  /* Products area end */
+
+  /* Comment area start */
+
+  .comment-pic {
+    width: 50%;
+  }
+
+  .comment-text {
+    padding-left: 20px;
+    width: 50%;
+  }
+
+  .comment-text a {
+    font-size: 23px;
+  }
+
+  .comment-text p {
+    font-size: 22px;
+    padding: 10px 0;
+  }
+
+  .comment-text h5 {
+    font-size: 20px;
+  }
+
+  .comment-text h6 {
+    font-size: 16px;
+  }
+
+  .slick-slider .comment-inner {
+    padding: 0 40px;
+  }
+
+  .comment-slider {
+    margin-top: 25px;
+  }
+
+  .comment-container {
+    padding: 70px 0 30px;
+  }
+
+  .lock {
+    position: absolute;
+    top: 36%;
+    right: 10%;
+  }
+
+  /* Comment area end */
+
+  /* Footer area start */
+
+  footer {
+    margin-top: 40px;
+    padding: 50px 0;
+  }
+
+  .footer-head h3 {
+    font-size: 33px;
+    margin-bottom: 30px;
+  }
+
+  .footer-head-btn a {
+    font-size: 14px;
+    padding: 15px 25px;
+    margin-bottom: 30px;
+  }
+
+  .footer-icon {
+    margin-bottom: 30px;
+  }
+
+  .footer-link-head h3 {
+    font-size: 18px;
+  }
+
+  .footer-links ul li a {
+    font-size: 15px;
+  }
+
+  /* Footer area end */
+}
+
+/* Medium device area end */
+
+/* Small device area start */
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+  /* Nav area start */
+
+  .navbar {
+    position: fixed;
+    background: rgb(214, 211, 211) !important;
+    z-index: 99;
+    padding: 15px 0;
+  }
+
+  .nav-link {
+    padding: 10px 0 !important;
+  }
+
+  .extra-btn {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  /* Nav area end */
+
+  /* banner area start */
+
+  #banner {
+    padding-top: 80px;
+  }
+
+  .banner-text {
+    position: absolute;
+    width: 60%;
+    top: 60%;
+    left: 00%;
+    padding: 0;
+    text-align: center;
+    opacity: 0.7;
+  }
+
+  .banner-text h3 {
+    font-size: 32px;
+    padding: 20px 0;
+  }
+
+  .banner-text p {
+    font-size: 16px;
+    padding: 0 0 20px 0;
+  }
+
+  /* banner area end */
+
+  /* Brand area start */
+
+  .brand-head h3 {
+    font-size: 20px;
+    letter-spacing: 10%;
+    padding-bottom: 20px;
+  }
+
+  #brand {
+    margin-top: 64px;
+    padding: 35px 0;
+    background: #f4f6f6;
+  }
+
+  /* Brand area end */
+
+  /* Deals area start */
+
+  #deals {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+  .header h3 {
+    font-size: 33px;
+  }
+
+  .span-text {
+    padding-left: 0;
+  }
+
+  #deals .header p {
+    padding: 35px 0;
+    font-size: 16px;
+  }
+
+  .deals-data h5 {
+    font-size: 18px;
+  }
+
+  .deals-data p {
+    font-size: 13px;
+  }
+
+  /* Deals area end */
+
+  /* About area start */
+
+  #about {
+    padding: 0;
+  }
+
+  .header h3 {
+    font-size: 30px;
+  }
+
+  .header p {
+    font-size: 16px;
+  }
+
+  #about .header p {
+    padding-right: 0;
+  }
+
+  .about-btn {
+    margin: 30px 0;
+  }
+
+  .about-inner {
+    padding-top: 30px;
+  }
+
+  .about-inner h3 {
+    font-size: 35px;
+  }
+
+  .about-inner h4 {
+    font-size: 16px;
+  }
+
+  .about-inner p {
+    font-size: 14px;
+    padding: 0;
+  }
+
+  .about-image-wrapper {
+    padding-top: 65px;
+  }
+
+  /* About area end */
+
+  /* Products area start */
+
+  .product-menu {
+    padding: 50px 0;
+  }
+
+  .product-menu button {
+    font-size: 18px;
+    padding: 0 10px;
+  }
+
+  /* Products area end */
+
+  /* Comment area start */
+
+  .comment-pic {
+    width: 50%;
+  }
+
+  .comment-text {
+    padding-left: 20px;
+    width: 50%;
+  }
+
+  .comment-text a {
+    font-size: 20px;
+  }
+
+  .comment-text p {
+    font-size: 16px;
+    padding: 10px 0;
+  }
+
+  .comment-text h5 {
+    font-size: 18px;
+  }
+
+  .comment-text h6 {
+    font-size: 14px;
+  }
+
+  .slick-slider .comment-inner {
+    padding: 0 40px;
+  }
+
+  .comment-slider {
+    margin-top: 25px;
+  }
+
+  .comment-container {
+    padding: 70px 0 30px;
+  }
+
+  /* Comment area end */
+
+  /* Footer area start */
+
+  footer {
+    margin-top: 40px;
+    padding: 50px 0;
+  }
+
+  .footer-head h3 {
+    font-size: 30px;
+    margin-bottom: 30px;
+  }
+
+  .footer-head-btn a {
+    font-size: 13px;
+    padding: 15px 25px;
+    margin-bottom: 30px;
+  }
+
+  .footer-icon {
+    margin-bottom: 30px;
+  }
+
+  .footer-link-head h3 {
+    font-size: 16px;
+  }
+
+  .footer-links ul li a {
+    font-size: 13px;
+  }
+
+  /* Footer area end */
+}
+
+/* Small device area end */
+
+/* Extra small device area start */
+
+@media (max-width: 575px) {
+  /* Nav area start */
+
+  .navbar {
+    position: fixed;
+    background: rgb(214, 211, 211) !important;
+    z-index: 99;
+    padding: 15px 0;
+  }
+
+  .nav-link {
+    padding: 10px 0 !important;
+  }
+
+  .extra-btn {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  /* Nav area end */
+
+  /* banner area start */
+
+  #banner {
+    padding-top: 80px;
+  }
+
+  .banner-text {
+    position: absolute;
+    width: 100%;
+    top: 62%;
+    left: 00%;
+    padding: 0;
+    text-align: center;
+    opacity: 0.7;
+  }
+
+  .banner-text h3 {
+    font-size: 30px;
+    padding: 20px 0;
+  }
+
+  .banner-text p {
+    font-size: 14px;
+    padding: 0 0 20px 0;
+  }
+
+  /* banner area end */
+
+  /* Brand area start */
+
+  .brand-head h3 {
+    font-size: 17px;
+    letter-spacing: 10%;
+    padding-bottom: 20px;
+  }
+
+  #brand {
+    margin-top: 64px;
+    padding: 35px 0;
+    background: #f4f6f6;
+  }
+
+  /* Brand area end */
+
+  /* Deals area start */
+
+  #deals {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+  .header h3 {
+    font-size: 30px;
+  }
+
+  .span-text {
+    padding-left: 0;
+  }
+
+  #deals .header p {
+    padding: 35px 0;
+  }
+
+  .deals-data h5 {
+    font-size: 16px;
+  }
+
+  .deals-data p {
+    font-size: 13px;
+  }
+
+  /* Deals area end */
+
+  /* About area start */
+
+  #about {
+    padding: 0;
+  }
+
+  .header h3 {
+    font-size: 30px;
+  }
+
+  .header p {
+    font-size: 14px;
+  }
+
+  #about .header p {
+    padding-right: 0;
+  }
+
+  .about-btn {
+    margin: 30px 0;
+  }
+
+  .about-inner {
+    padding-top: 30px;
+  }
+
+  .about-inner h3 {
+    font-size: 35px;
+  }
+
+  .about-inner h4 {
+    font-size: 16px;
+  }
+
+  .about-inner p {
+    font-size: 12px;
+    padding: 0;
+  }
+
+  .about-image-wrapper {
+    padding-top: 65px;
+  }
+
+  /* About area end */
+
+  /* Products area start */
+
+  .product-menu {
+    padding: 50px 0;
+  }
+
+  .product-menu button {
+    font-size: 16px;
+    padding: 0 10px;
+  }
+
+  /* Products area end */
+
+  /* Comment area start */
+
+  .comment-pic {
+    width: 50%;
+  }
+
+  .comment-text {
+    padding-left: 20px;
+    width: 50%;
+  }
+
+  .comment-text a {
+    font-size: 16px;
+  }
+
+  .comment-text p {
+    font-size: 13px;
+    padding: 10px 0;
+  }
+
+  .comment-text h5 {
+    font-size: 16px;
+  }
+
+  .comment-text h6 {
+    font-size: 13px;
+  }
+
+  .slick-slider .comment-inner {
+    padding: 0 10px;
+  }
+
+  .comment-slider {
+    margin-top: 25px;
+  }
+
+  .comment-container {
+    padding: 70px 0 30px;
+  }
+
+  /* Comment area end */
+
+  /* Footer area start */
+
+  footer {
+    margin-top: 40px;
+    padding: 50px 0;
+  }
+
+  .footer-head h3 {
+    font-size: 30px;
+    margin-bottom: 30px;
+  }
+
+  .footer-head-btn a {
+    font-size: 13px;
+    padding: 15px 25px;
+    margin-bottom: 30px;
+  }
+
+  .footer-icon {
+    margin-bottom: 30px;
+  }
+
+  .footer-link-head h3 {
+    font-size: 16px;
+  }
+
+  .footer-links ul li a {
+    font-size: 13px;
+  }
+
+  /* Footer area end */
+}
+
+/* Extra small device area end */
